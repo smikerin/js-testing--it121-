@@ -1,0 +1,29 @@
+{
+  "name": "js-testing-it121-",
+  "version": "1.0.0",
+  "description": "Import this repo to create a starting point for Node.js projects in repl.it, https://replit.com",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.3.6"
+  },
+  "devDependencies": {
+    "mocha": "^9.2.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smikerin/js-testing--it121-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smikerin/js-testing--it121-/issues"
+  },
+  "homepage": "https://github.com/smikerin/js-testing--it121-#readme"
+}
